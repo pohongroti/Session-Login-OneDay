@@ -1,0 +1,16 @@
+{
+  "name": "ujilogin",
+  "version": "1.0.0",
+  "description": "uji login local storage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "master-soft",
+  "license": "MIT",
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "express": "^4.17.1",
+    "express-session": "^1.17.2"
+  }
+}
